@@ -13,7 +13,9 @@ class Stu
 int main()
 {
 	cout<<"hello world"<<endl;
+	cout<<"Adding this line to check";
 // last comment
+
 }
 //adding functuon def here
 void getdata()
